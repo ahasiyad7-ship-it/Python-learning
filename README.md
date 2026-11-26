@@ -16,11 +16,5 @@ Learning Python and Full Stack Development from scratch.
 
 To become a Full Stack Developer by learning step by step and building real projects.
 
-## 🚀 Progress
-
-- [x] Created GitHub Repo
-- [ ] Python Basics
-- [ ] Projects
-
 ---
 Made with ❤️ by learning every day

@@ -1,0 +1,6 @@
+is_raining = input("Enter your choice:")
+
+if(is_raining == "Yes"):
+    print("It's raining")
+else:
+    print("It's not raining")
